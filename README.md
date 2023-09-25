@@ -5,5 +5,7 @@ Generates some basic output about the number of physical items and their associa
 
 ### Requirements
 - r bibs key
-- `mms_id` of the bib record you want to change
-- `holding_id` for each holding you want assessed
+- `mms_id`'s of the bib records you want to retrieve inventory for
+- `holding_id`'s for each holding you want assessed.
+
+[Youtube Walkthrough](https://youtu.be/c6IPba_NOlA)
